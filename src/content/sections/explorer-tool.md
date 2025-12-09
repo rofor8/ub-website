@@ -4,7 +4,7 @@ order: 4
 navTitle: "UB Explorer"
 ---
 
-Analyze cumulative urban challenges across Bristol with the Explorer tool. This interactive map uses our 'Red Glass' visualization concept, stacking multiple layers of concern—from air quality and urban heat to traffic safety and crime. Deeper shades of red instantly reveal areas where environmental and social challenges overlap, helping to identify priority areas for intervention.
+Explore cumulative environmental challenges across Bristol with our interactive map—one of our free tools. We stack five key concern layers—air quality, flood risk, noise pollution, urban heat, and lack of vegetation—into a single view. Red highlights areas of high concern, with deeper shades revealing where multiple challenges overlap. Click anywhere to see which concerns are high at that location. Green spaces and water features stand out above the data, showing where nature provides relief from urban stress.
 
 <iframe
 src="https://explorer.urbanbiome.co.uk/"
