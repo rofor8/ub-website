@@ -3,7 +3,6 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import TeamGrid from '@/components/TeamGrid.astro';
-import ContactForm from '@/components/ContactForm.astro';
 import NetworkGrid from '@/components/NetworkGrid.astro';
 
 // 2. Fetch all entries from the "sections" collection
@@ -18,7 +17,6 @@ const slugify = (text: string) => text.toLowerCase().replace(/\s+/g, '-').replac
 // Map of component names to actual components
 const componentMap: Record<string, any> = {
   'TeamGrid': TeamGrid,
-  'ContactForm': ContactForm,
   'NetworkGrid': NetworkGrid,
 };
 ---
