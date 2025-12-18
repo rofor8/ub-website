@@ -2,8 +2,6 @@
 dist/
 # generated types
 .astro/
-# TinaCMS
-tina/__generated__/
 
 # dependencies
 node_modules/
