@@ -1,5 +1,5 @@
 ---
-title: 🌍 How We Enable Rewilding
+title: How We Enable Rewilding
 order: 3
 navTitle: Our Approach
 ---
