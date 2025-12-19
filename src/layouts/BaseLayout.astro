@@ -365,17 +365,27 @@ import '../styles/modern.css';
     }
     
     /* ADDED LOGO STYLES */
-    .logo-link {
+    .logo {
         display: flex;
         align-items: center;
         text-decoration: none;
+        gap: 10px;
     }
     .logo-image {
-        height: 80px;
+        height: 40px;
         width: auto;
         border-radius: 0;
         box-shadow: none;
         margin: 0;
+    }
+    .logo-text {
+        font-size: 1.5rem;
+        font-weight: 600;
+        color: var(--text-primary);
+        letter-spacing: -0.02em;
+    }
+    .logo:hover .logo-text {
+        color: var(--primary);
     }
 
     /* FOUNDERS SECTION STYLES */
