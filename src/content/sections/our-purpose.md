@@ -1,5 +1,5 @@
 ---
-title: Nature Back Into Cities
+title: Nature Back In Our Cities
 order: 1
 navTitle: Our Purpose
 ---
