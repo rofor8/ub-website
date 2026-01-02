@@ -1,5 +1,5 @@
 ---
-title: Bringing Nature Back into the Urban Fabric
+title: Nature Back Into Cities
 order: 1
 navTitle: Our Purpose
 ---
