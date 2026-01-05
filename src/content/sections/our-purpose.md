@@ -1,5 +1,5 @@
 ---
-title: We Heal Cities Through Nature
+title: Nature Back In Our Cities
 order: 1
 navTitle: Our Purpose
 ---
