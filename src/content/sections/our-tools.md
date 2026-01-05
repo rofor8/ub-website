@@ -6,7 +6,7 @@ navTitle: "Our Tools"
 
 ### Explorer
 
-Explore cumulative environmental challenges across Bristol with our interactive map—one of our free tools. We stack five key concern layers—air quality, flood risk, noise pollution, urban heat, and lack of vegetation—into a single view. Red highlights areas of high concern, with deeper shades revealing where multiple challenges overlap. Click anywhere to see which concerns are high at that location. Green spaces and water features stand out above the data, showing where nature provides relief from urban stress.
+Explore cumulative environmental challenges across Bristol with our interactive map—one of our free tools. We stack six key concern layers—air quality, flood risk, noise pollution, urban heat, vegetation deficit, and deprivation—into a single view. Yellow highlights areas with one challenge, shifting through orange to deep red as multiple challenges overlap. Click anywhere to see which concerns are high at that location. Green spaces and water features stand out above the data, showing where nature provides relief from urban stress.
 
 <iframe
 src="https://explorer.urbanbiome.co.uk/"
@@ -25,7 +25,7 @@ Your browser does not support iframes. Please <a href="https://explorer.urbanbio
 
 ### Community Sightings
 
-Map and share urban nature findings with our community platform. Document nature-based solutions, problem areas, and spaces with untapped potential. Add sightings directly to the map with photos and descriptions, see what others have discovered, and build collective understanding of urban ecosystems.
+Map and share existing green infrastructure with our community platform. Document street trees, rain gardens, green walls, and other nature-based solutions already in place. Add sightings directly to the map with photos and descriptions, see what others have discovered, and build a collective inventory of Bristol's urban greening efforts.
 
 <iframe
 src="https://sightings.urbanbiome.co.uk/"
