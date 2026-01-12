@@ -4,4 +4,4 @@ order: 6
 useComponent: "NetworkGrid"
 ---
 We cannot do this alone. To help us achieve our mission, we rely on a network of organisations.
-In Bristol, we collaborate with makers, builders and small local groups that share our vision.
+In Bristol, we collaborate with makers, builders and local groups that share our vision.
