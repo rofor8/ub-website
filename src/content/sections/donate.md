@@ -4,7 +4,7 @@ order: 7
 navTitle: Donate
 ---
 
-Help us build accessible environmental intelligence tools for communities. Your support enables us to develop open tools, conduct research, and make geospatial analytics available to organisation working toward sustainable, equitable urban futures.
+Help us build accessible environmental intelligence tools for our cities. Your support enables us to develop open tools, conduct research, and make geospatial analytics available to organisations working toward sustainable, equitable urban futures.
 
 Every contribution helps us maintain our platforms, expand our datasets, and keep our tools free for community use.
 
